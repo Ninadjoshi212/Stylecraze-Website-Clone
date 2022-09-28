@@ -24,19 +24,27 @@
 
 ### Pages & Features 👇
  
--  NavBar : Homepage Navbar consist of Categories dropdown, Search functionality and Inner Navbar with Hamburger Menu.
+- `NavBar`:Homepage Navbar consist of Categories dropdown, Search functionality and Inner Navbar with Hamburger Menu.
 - `Home Page`: Overview of Articles of different caegories.
--  Search page : Articles search within website as well as using google search api.
+<br>
+
+![screenshot](./homepage.jpg)
+
+<br>
+
+- `Search Page` : Articles search within website as well as using google search api.
+
+<br>
+
+![screenshot](./searchpage.jpg)
+
+<br>
+
 - `Sign-Up`: User sign up to be done by local storage.
 - `Sign-In`: User authentication to check whether user data match with existing data or not.
 - `Articles Page`: Articles page created using json server and can filter according to categories.
 - `Products Page` : Beauty products using API and can fliter as per type or brand.
 - `Product details Page` : Details of particlar product.
-- `Cart`: User can see or remove products added in the cart and apply discount coupons.
-- `Checkout Page`: Users can add the delivery address.
-- `Payment Page`: Users can add their payment details.
-- `Order Successful`: Cart gets empty automatically in local storage, once the user lands on this page.
-- `Additional Features`: Kept the branding, fonts, colors and favicon and titles consistent throughtout the whole site to give a feel like the original site.
 
 ---
 ### Tech Stack Used 🔧
